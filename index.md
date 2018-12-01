@@ -11,3 +11,7 @@ The goal of this project is for us to demonstrate proficiency in the techniques 
 ## Regional Migration Impacts on Turkish City Populations : Analysis on Syrian Migration
 
 Source files are available [here](https://github.com/MEF-BDA503/gpj18-r_boys/tree/master/source_files) (still on going)
+
+## Draft results for distrubution analysis to Istanbul as of 2017
+
+[This](https://github.com/MEF-BDA503/gpj18-r_boys/tree/master/migration_ist17.html) is a preliminary version of our analysis
