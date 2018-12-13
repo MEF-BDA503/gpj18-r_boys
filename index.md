@@ -1,9 +1,9 @@
 ## r_boys Group Members
 * [Ferdi Ateşin](https://mef-bda503.github.io/pj18-ferdiatesin/)
-* Kutlu Yücel
-* Murat Göçer
-* Orkun Berk Yüzbaşıoğlu
-* Uğurcan Kalenderoğlu
+* [Kutlu Yücel](https://mef-bda503.github.io/pj18-kkyucel/)
+* [Murat Göçer](https://mef-bda503.github.io/pj18-mrtgocer/)
+* [Orkun Berk Yüzbaşıoğlu](https://mef-bda503.github.io/pj18-orkunberkyuzbasioglu/)
+* [Uğurcan Kalenderoğlu](https://mef-bda503.github.io/pj18-ukalender/)
 
 ## Proposal of the project
 
