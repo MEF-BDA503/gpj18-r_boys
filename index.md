@@ -18,4 +18,4 @@ Source files are available [here](https://github.com/MEF-BDA503/gpj18-r_boys/tre
 
 ## Draft results for distrubution analysis to Istanbul as of 2017
 
-[This](https://mef-bda503.github.io/gpj18-r_boys/migration_ist17.html) is a preliminary version of our analysis
+[This](https://mef-bda503.github.io/gpj18-r_boys/initial_analysis.html) is a preliminary version of our analysis
