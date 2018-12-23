@@ -14,7 +14,7 @@ The goal of this project is for us to demonstrate proficiency in the techniques 
 
 ## Regional Migration Impacts on Turkish City Populations
 
-Source files are available [here](https://github.com/MEF-BDA503/gpj18-r_boys/tree/master/source_files) (still on going)
+Source files are available [here](https://github.com/MEF-BDA503/gpj18-r_boys/tree/master/source_files)
 
 ## Draft results for distrubution analysis to Istanbul as of 2017
 
