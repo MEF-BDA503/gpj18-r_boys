@@ -29,3 +29,8 @@ A PDF version is also available [here.](https://mef-bda503.github.io/gpj18-r_boy
 ## Presentation
 
 Our presentation for the outputs of the project is also available [here.](https://mef-bda503.github.io/gpj18-r_boys/presentation.html)
+
+## Shiny App
+
+Please follow this [link](https://rboys.shinyapps.io/shiny/) for our sample shiny app
+Source files can be found [here](https://github.com/MEF-BDA503/gpj18-r_boys/tree/master/shiny)
